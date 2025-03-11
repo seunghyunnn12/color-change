@@ -1,4 +1,3 @@
-
 const box = document.querySelector('#container');
 const title = document.querySelector('h1.title');
 const playBtn = document.querySelector('.play');
